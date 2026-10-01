@@ -1,4 +1,4 @@
-# Hi, I'm Juan José Prades 👋
+# Hi, I'm Juanjo Prades 👋
 
 🎓 **Data Science & AI enthusiast** currently pursuing a **Master's Degree in Artificial Intelligence, Big Data & Cloud at EDEM**.
 
